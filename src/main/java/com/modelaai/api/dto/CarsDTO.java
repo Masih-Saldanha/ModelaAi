@@ -1,4 +1,4 @@
-package com.modelaai.api.DTO;
+package com.modelaai.api.dto;
 
 public record CarsDTO(
         String modelo,
